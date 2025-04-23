@@ -1825,3 +1825,65 @@ java.lang.Exception: null
 [23Apr2025 03:47:04.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrRiot has made the advancement [Rigged from the Start]
 [23Apr2025 03:47:17.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrRiot has made the advancement [Revive Me, I Have a Raygun]
 [23Apr2025 03:47:49.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrRiot has made the advancement [Enchanter]
+[23Apr2025 03:50:28.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepebotellas[/127.167.19.58:52061] logged in with entity id 16111 at (-54.5, 68.0, -301.5)
+[23Apr2025 03:50:28.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepebotellas joined the game
+[23Apr2025 03:50:28.957] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[23Apr2025 03:50:29.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepebotellas has made the advancement [Plenty of Golems]
+[23Apr2025 03:50:35.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> OOOOO
+[23Apr2025 03:50:37.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> oooooo
+[23Apr2025 03:50:39.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Apr2025 03:50:44.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> q rollo, como te va
+[23Apr2025 03:51:45.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported CrRiot to pepebotellas
+[23Apr2025 03:52:32.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> que rollo, como va
+[23Apr2025 03:53:55.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrRiot has made the advancement [Knowledge of Death]
+[23Apr2025 03:53:55.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrRiot has made the advancement [Ambush]
+[23Apr2025 03:53:55.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrRiot has made the advancement [Monster Hunter]
+[23Apr2025 03:55:14.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepebotellas has made the advancement [This Must be a Sign!]
+[23Apr2025 03:55:35.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepebotellas> 40
+[23Apr2025 03:55:38.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepebotellas> yipiieee
+[23Apr2025 03:55:40.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> estables?
+[23Apr2025 03:55:48.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> jugable?
+[23Apr2025 03:56:05.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepebotellas> baja hasta 20, llevame a un lugar con creaturas a ver que rollo
+[23Apr2025 03:56:16.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[23Apr2025 03:56:31.090] [Worker-Main-2/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1525245269,1540113467,-1220055943,-1016494837],type:"minecraft:entity",y_offset:0.36f}}]
+[23Apr2025 03:56:58.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported pepebotellas to CrRiot
+[23Apr2025 03:57:18.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> igual?
+[23Apr2025 03:57:27.364] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=148, y=58, z=18}
+[23Apr2025 03:57:56.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepebotellas> lo minimo es 20, maximo 60
+[23Apr2025 03:57:58.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepebotellas> jugable
+[23Apr2025 03:58:09.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> te mando a otro bioma?
+[23Apr2025 03:58:12.313] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[23Apr2025 03:58:12.314] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[23Apr2025 03:58:12.315] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[23Apr2025 03:58:12.315] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[23Apr2025 03:58:14.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepebotellas> va
+[23Apr2025 03:58:38.382] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[23Apr2025 03:58:38.383] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[23Apr2025 03:58:38.383] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[23Apr2025 03:58:38.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> ta largo el pinshi desierto
+[23Apr2025 03:58:46.616] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[23Apr2025 03:58:46.616] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[23Apr2025 03:58:50.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepebotellas> viejo busca biomas con comandos
+[23Apr2025 03:58:53.795] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 03:58:53.800] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[23Apr2025 03:58:59.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepebotellas has made the advancement ['X' Marks the Spot]
+[23Apr2025 03:59:00.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> se me olvido ponerme OP XDXD
+[23Apr2025 03:59:07.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> estoy usando la consola
+[23Apr2025 03:59:12.434] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-21, z=-12}
+[23Apr2025 03:59:12.435] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-21, z=-14}
+[23Apr2025 03:59:12.435] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-21, z=-10}
+[23Apr2025 03:59:12.435] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=-21, z=-14}
+[23Apr2025 03:59:12.435] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=-21, z=-12}
+[23Apr2025 03:59:12.436] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=-21, z=-10}
+[23Apr2025 03:59:12.570] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[23Apr2025 03:59:12.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepebotellas has made the advancement [Barrel Booty]
+[23Apr2025 03:59:17.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> no te bajes del arbol niger
+[23Apr2025 03:59:21.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> te van a follar
+[23Apr2025 03:59:25.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> ai va el tepe
+[23Apr2025 03:59:34.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported pepebotellas to CrRiot
+[23Apr2025 03:59:56.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> bien igual?
+[23Apr2025 04:00:05.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepebotellas> awiwi
+[23Apr2025 04:00:15.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> ten wey
+[23Apr2025 04:00:22.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> vas a ser el soldado mas fuerte de dios
+[23Apr2025 04:00:25.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepebotellas has made the advancement [Revive Me, I Have a Raygun]
+[23Apr2025 04:01:12.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrRiot> el poder del guion

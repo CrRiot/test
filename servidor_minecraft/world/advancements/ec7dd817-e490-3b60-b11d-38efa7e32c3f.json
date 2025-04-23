@@ -1,0 +1,435 @@
+{
+  "beachparty:palm_sign": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "plenty_of_golems:not_enough_golem_ad": {
+    "criteria": {
+      "not_enough_golem_ad_0": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_apple_press": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:sunglasses": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:warped_wine_rack_mid": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:bikini": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_chest_boat": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_nether_bag": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-04-23 03:55:14 +0000"
+    },
+    "done": true
+  },
+  "beachparty:mini_fridge": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:warped_grapevine_pot": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:chair": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:warped_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crested_crimson_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_beam": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_door": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:obsidian_stem": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:warped_grape_seeds": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-04-23 03:50:28 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crested_warped_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-04-23 03:50:28 +0000"
+    },
+    "done": true
+  },
+  "beachparty:hammock": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:warped_apple_press": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:warped_fermentation_barrel": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:table": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:cabinet": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2025-04-23 03:50:28 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2025-04-23 03:50:28 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_floorboard": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:radio": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/root": {
+    "criteria": {
+      "beer": "2025-04-23 03:50:28 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:tiki_chair": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_boat": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:improved_nether_fizz": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_grape_seeds": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_the_slanted_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:warped_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:reinforced_crimson_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beach_chair": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_fermentation_barrel": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:warped_nether_bag": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:badlands": "2025-04-23 03:50:30 +0000"
+    },
+    "done": false
+  },
+  "beachparty:palm_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_grapevine_pot": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobsinteraction:root": {
+    "criteria": {
+      "tick": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_fence_gate": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "realmrpg_quests:root": {
+    "criteria": {
+      "root_0": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_fence": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_button": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_tall_torch": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:improved_lava_fizz": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_wood": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-04-23 03:50:30 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beach_towel": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:lounge_chair": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:reinforced_warped_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_wine_rack_mid": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:50:29 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2025-04-23 03:50:28 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
